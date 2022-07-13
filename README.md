@@ -9,4 +9,4 @@ $ chmod +x steg.sh
 
 $ ./steg.sh
 
-outputs will be stored in same file
+**outputs will be stored in same file**
