@@ -2,7 +2,7 @@
 
 clear
 
-echo "/\ Specially made for pictures /\ "
+echo "/\ Specially made for .png, .jpg, .jpeg /\ "
 echo "Enter location of picture: "
 read LOCATION
 file $LOCATION
