@@ -1,6 +1,6 @@
 #!/bin/bash
 #update to latest version for the listed tools below
-#exiftool, binwalk, strings, are pre-installed in linux machines
+#exiftool, binwalk, strings, are pre-installed in linux machines (specifically Kali linux)
 clear
 
 echo "/\ Specially made for .png, .jpg, .jpeg /\ "
